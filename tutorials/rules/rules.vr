@@ -1,0 +1,7 @@
+﻿[VALIDATE_1]
+###Rule
+http-status-check
+
+###Match
+200
+[VALIDATE_1]
